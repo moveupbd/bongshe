@@ -1,0 +1,1449 @@
+[
+    {
+        "key": "BSJ210533JPX",        
+        "name": "Glass Stone Matte Earrings",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/vQ63sWv/BSJ210533-JPX-1.jpg",        
+        "price": 275,
+        "regularPrice": 450,
+        "shipping": 0,    
+        "features": [
+            {
+
+                "description": "Earring",
+                "value": "Length: 4.50 CM x Width: 2.70 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Maroon & Green"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "20.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    },
+    {
+        "key": "BSJ210510JPW",        
+        "name": "Glass Stone Oxidised Earrings",
+        "stock": 1,
+        "rating": 5,        
+        "img": "https://i.ibb.co/MpMFS7f/BSJ210533-JPX-11.jpg",        
+        "price": 350,
+        "regularPrice": 550,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "7.50 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold & Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Green"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "21.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    },
+    {
+        "key": "BSJ210517JPZ",        
+        "name": "Silk Thread Earrings",
+        "stock": 0,
+        "rating": 5,        
+        "img": "https://i.ibb.co/6FdYkW8/BSJ210533-JPX-18.jpg",        
+        "price": 175,
+        "regularPrice": 270,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "6.50 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Beige"
+            },
+            {
+                "description": "Stone",
+                "value": "Beads"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "12.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Fishhook"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    },
+    {
+        "key": "BSJ210523JPT",        
+        "name": "Necklace and Earrings",
+        "stock": 4,
+        "rating": 5,        
+        "img": "https://i.ibb.co/1mGgtRS/BSJ210533-JPX-23.jpg",        
+        "price": 500,
+        "regularPrice": 800,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Necklace Length",
+                "value": "26.00 CM x Width: 2.00 CM"
+            },
+            {
+
+                "description": "Earring Length",
+                "value": "4.00 CM x Width: 1.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Red"
+            },
+            {
+                "description": "Stone",
+                "value": "Kundan & Imitation Pearl"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "92.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Piece Of Necklace & 1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post with Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Drop"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    },
+    {
+        "key": "BSJ210509JPU",        
+        "name": "Glass Stone Oxidised Earrings",
+        "stock": 1,
+        "rating": 5,        
+        "img": "https://i.ibb.co/jWdjjpw/BSJ210533-JPX-10.jpg",        
+        "price": 500,
+        "regularPrice": 750,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "5.00 CM x Width: 5.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold & Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Green"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "28.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, 
+       {
+        "key": "BSJ210502JPY",        
+        "name": "Oxidised Earrings",
+        "stock": 3,
+        "rating": 5,        
+        "img": "https://i.ibb.co/hs6rwrh/BSJ210533-JPX-3.jpg",        
+        "price": 200,
+        "regularPrice": 300,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "5.00 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Silver"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "28.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, 
+    {
+        "key": "BSJ210501JPY",        
+        "name": "Oxidised Earrings",
+        "stock": 1,
+        "rating": 5,        
+        "img": "https://i.ibb.co/kShnxtv/BSJ210533-JPX-2.jpg",        
+        "price": 250,
+        "regularPrice": 350,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "7.50 CM x Width: 4.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Silver"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "36.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    },
+    {
+        "key": "BSJ210503JPZ",        
+        "name": "Peacock Inspired Oxidised Earrings",
+        "stock": 1,
+        "rating": 5,        
+        "img": "https://i.ibb.co/ThsQtZv/BSJ210533-JPX-4.jpg",        
+        "price": 175,
+        "regularPrice": 270,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "6.50 CM x Width: 2.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Silver"
+            },
+
+            {
+                "description": "Gross Weight",
+                "value": "26.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210504JPZ",        
+        "name": "Beads Oxidised Earrings",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/zQ8XTSr/BSJ210533-JPX-5.jpg",        
+        "price": 150,
+        "regularPrice": 250,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "5.00 CM x Width: 2.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Silver"
+            },
+            {
+                "description": "Stone",
+                "value": "Beads"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "18.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210505JPU",        
+        "name": "Glass Stone Oxidised Earrings",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/zS6hfvr/BSJ210533-JPX-6.jpg",        
+        "price": 500,
+        "regularPrice": 750,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "6.50 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold & Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "White"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "34.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210506JPU",        
+        "name": "Glass Stone Oxidised Earrings",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/2Sdy6dG/BSJ210533-JPX-7.jpg",        
+        "price": 500,
+        "regularPrice": 750,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "5.00 CM x Width: 5.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold & Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Green"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "28.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210507JPU",        
+        "name": "Glass Stone Oxidised Earrings",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/CWkVpY1/BSJ210533-JPX-8.jpg",        
+        "price": 500,
+        "regularPrice": 750,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "6.50 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold & Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Rani"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "34.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210508JPU",        
+        "name": "Glass Stone Oxidised Earrings",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/CJH3FzZ/BSJ210533-JPX-9.jpg",        
+        "price": 500,
+        "regularPrice": 750,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "6.50 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold & Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Blue"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "34.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    },  {
+        "key": "BSJ210511JPX",        
+        "name": "Glass Stone Oxidised Earrings",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/n1NXv99/BSJ210533-JPX-12.jpg",        
+        "price": 300,
+        "regularPrice": 450,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "3.00 CM x Width: 2.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "White"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "18.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210512JPX",        
+        "name": "Glass Stone Oxidised Earrings",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/C0wLHFF/BSJ210533-JPX-13.jpg",        
+        "price": 300,
+        "regularPrice": 450,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "3.00 CM x Width: 2.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Green"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "18.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210513JPX",        
+        "name": "Glass Stone Oxidised Earrings",
+        "stock": 3,
+        "rating": 5,        
+        "img": "https://i.ibb.co/0sxFF7S/BSJ210533-JPX-14.jpg",        
+        "price": 300,
+        "regularPrice": 450,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "3.00 CM x Width: 2.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Rani"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "18.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210514JPX",        
+        "name": "Glass Stone Oxidised Earrings",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/zNPNbM2/BSJ210533-JPX-15.jpg",        
+        "price": 300,
+        "regularPrice": 450,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "3.00 CM x Width: 2.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Blue"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "18.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210515JPZ",        
+        "name": "Silk Thread Earrings",
+        "stock": 1,
+        "rating": 5,        
+        "img": "https://i.ibb.co/dKs1nXq/BSJ210533-JPX-16.jpg",        
+        "price": 175,
+        "regularPrice": 270,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "6.50 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Pista Green"
+            },
+            {
+                "description": "Stone",
+                "value": "Beads"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "12.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Fishhook"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210516JPZ",        
+        "name": "Silk Thread Earrings",
+        "stock": 0,
+        "rating": 5,        
+        "img": "https://i.ibb.co/fkGZZNK/BSJ210533-JPX-17.jpg",        
+        "price": 175,
+        "regularPrice": 270,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "6.50 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Orange"
+            },
+            {
+                "description": "Stone",
+                "value": "Beads"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "12.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Fishhook"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    },  {
+        "key": "BSJ210518JPZ",        
+        "name": "Silk Thread Earrings",
+        "stock": 0,
+        "rating": 5,        
+        "img": "https://i.ibb.co/znYK6fM/BSJ210533-JPX-19.jpg",        
+        "price": 175,
+        "regularPrice": 270,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "6.50 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Navy Blue"
+            },
+            {
+                "description": "Stone",
+                "value": "Beads"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "12.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Fishhook"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210519JPZ",        
+        "name": "Silk Thread Earrings",
+        "stock": 1,
+        "rating": 5,        
+        "img": "https://i.ibb.co/vYZ2gR9/BSJ210533-JPX-20.jpg",        
+        "price": 175,
+        "regularPrice": 270,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "6.50 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Blue"
+            },
+            {
+                "description": "Stone",
+                "value": "Beads"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "12.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Fishhook"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210520JPZ",        
+        "name": "Silk Thread Earrings",
+        "stock": 1,
+        "rating": 5,        
+        "img": "https://i.ibb.co/TT9FsdH/BSJ210533-JPX-21.jpg",        
+        "price": 175,
+        "regularPrice": 270,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring Length",
+                "value": "6.50 CM x Width: 2.50 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Brass With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Green"
+            },
+            {
+                "description": "Stone",
+                "value": "Beads"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "12.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Fishhook"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Jhumka"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210522JPT",        
+        "name": "Oxidised Necklace and Earrings",
+        "stock": 1,
+        "rating": 5,        
+        "img": "https://i.ibb.co/VCQ34tq/BSJ210533-JPX-22.jpg",        
+        "price": 500,
+        "regularPrice": 800,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Necklace Length",
+                "value": "60.00 CM x Width: 1.00 CM"
+            },
+            {
+
+                "description": "Earring Length",
+                "value": "2.00 CM x Width: 2.50 CM"
+            },
+            {
+
+                "description": "Pendant Length",
+                "value": "7.50 CM x Width: 10.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Silver"
+            },
+            
+            {
+                "description": "Gross Weight",
+                "value": "94.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Piece Of Necklace & 1 Pair Of Earring"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Stud"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    },  {
+        "key": "BSJ210524JPZ",        
+        "name": "Oxidised Nose Pin",
+        "stock": 54,
+        "rating": 5,        
+        "img": "https://i.ibb.co/HC0RXGK/BSJ210533-JPX-24.jpg",        
+        "price": 50,
+        "regularPrice": 60,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Nose Pin",
+                "value": " Length: 2.00 CM x Width: 1.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Silver Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Multi"
+            },
+            {
+                "description": "Stone",
+                "value": "Glass Stone"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "15.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Nose Pin"
+            },
+            
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210525JPV",        
+        "name": "Kundan Earrings with Tikli",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/Z1sRJPS/BSJ210533-JPX-25.jpg",        
+        "price": 400,
+        "regularPrice": 650,
+        "shipping": 0,
+        "features": [
+            {
+                "description": "Earring",
+                "value": "Length: 9.00 CM x Width: 4.50 CM"
+            },
+            {
+                "description": "Tikli",
+                "value": "Length: 14.00 CM x Width: 4.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Rani"
+            },
+            {
+                "description": "Stone",
+                "value": "Kundan & Imitation Pearl"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "82.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring & 1 Piece Of Tikli"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210526JPV",        
+        "name": "Kundan Earrings with Tikli",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/rknt9kd/BSJ210533-JPX-26.jpg",        
+        "price": 400,
+        "regularPrice": 650,
+        "shipping": 0,
+        "features": [
+            {
+                "description": "Earring",
+                "value": "Length: 8.50 CM x Width: 4.50 CM"
+            },
+
+            {
+                "description": "Tikli",
+                "value": "Length: 14.00 CM x Width: 4.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Pista Green"
+            },
+            {
+                "description": "Stone",
+                "value": "Kundan & Imitation Pearl"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "70.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring & 1 Piece Of Tikli"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210527JPV",        
+        "name": "Kundan Earrings with Tikli",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/ZKfBm5Y/BSJ210533-JPX-27.jpg",        
+        "price": 400,
+        "regularPrice": 650,
+        "shipping": 0,
+        "features": [
+            {
+                "description": "Earring",
+                "value": "Length: 8.50 CM x Width: 4.50 CM"
+            },
+
+            {
+                "description": "Tikli",
+                "value": "Length: 14.00 CM x Width: 4.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Red"
+            },
+            {
+                "description": "Stone",
+                "value": "Kundan & Imitation Pearl"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "70.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring & 1 Piece Of Tikli"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210528JPV",        
+        "name": "Kundan Earrings with Tikli",
+        "stock": 2,
+        "rating": 5,        
+        "img": "https://i.ibb.co/jVJhJpg/BSJ210533-JPX-28.jpg",        
+        "price": 400,
+        "regularPrice": 650,
+        "shipping": 0,
+        "features": [
+            {
+                "description": "Earring",
+                "value": "Length 8.50 CM x Width: 4.00 CM"
+            },
+            {
+                "description": "Tikli",
+                "value": "Length: 14.00 CM x Width: 4.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Rani"
+            },
+            {
+                "description": "Stone",
+                "value": "Kundan & Imitation Pearl"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "76.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring & 1 Piece Of Tikli"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }, {
+        "key": "BSJ210529JPV",        
+        "name": "Kundan Earrings with Tikli",
+        "stock": 1,
+        "rating": 5,        
+        "img": "https://i.ibb.co/SRKrX6c/BSJ210533-JPX-29.jpg",        
+        "price": 400,
+        "regularPrice": 600,
+        "shipping": 0,
+        "features": [
+            {
+
+                "description": "Earring",
+                "value": "Length: 8.00 CM x Width: 5.00 CM"
+            },
+            {
+                "description": "Tikli",
+                "value": "Length: 14.00 CM x Width: 4.00 CM"
+            },
+            {
+                "description": "Metal",
+                "value": "Alloy With Good Quality Gold Plated"
+            },
+
+            {
+                "description": "Color",
+                "value": "Rani"
+            },
+            {
+                "description": "Stone",
+                "value": "Kundan & Imitation Pearl"
+            },
+            {
+                "description": "Gross Weight",
+                "value": "70.00 Grams"
+            },
+            {
+                "description": "Package Content",
+                "value": "1 Pair Of Earring & 1 Piece Of Tikli"
+            },
+            {
+                "description": "Back Finding",
+                "value": "Post With Friction Back"
+            },
+            {
+                "description": "Earring Style",
+                "value": "Dangle"
+            },
+            {
+                "description": "Care Instruction",
+                "value": "Avoid Heat & Chemicals Like Perfume, Deo, Alcohol, Etc. | Clean With Dry Cotton Cloth | Pack In An Air Tight Container After Use."
+            }
+        ]
+    }
+ 
+]

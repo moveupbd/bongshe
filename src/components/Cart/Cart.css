@@ -1,0 +1,18 @@
+.cart {
+  width: 300px;
+  position: fixed;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+  box-shadow: 10px 10px 20px gray;
+  border-radius: 5px;
+  margin-right: 3px;
+  padding: 10px;
+  background-color: coral;
+  /* border: 1px solid green; */
+}
+.total {
+  font-weight: 600;
+  font-size: 4vh;
+  color: orangered;
+}
